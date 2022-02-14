@@ -23,9 +23,9 @@ Don't forget to fully meet the following development requirements. </div>
 
 **Read or watch** :
 
-[![M](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/80px-Google_2015_logo.svg.png)](https://www.google.com/search?q=what+is+a+doubly+linked+list&oq=What+is+a+doubly+linked+list&aqs=chrome.0.0i512l5j69i61j69i60.1304j0j15&sourceid=chrome&ie=UTF-8)
+[![M](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/80px-Google_2015_logo.svg.png)](https://www.google.com/search?q=big+o+notation&oq=big+o+&aqs=chrome.1.69i57j0i512l3j0i457i512j0i512j46i175i199i512j0i512l2j46i512.4534j0j15&sourceid=chrome&ie=UTF-8)
 
-[![M](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/70px-Logo_of_YouTube_%282015-2017%29.svg.png)](https://www.youtube.com/watch?v=KFbm6lkMhgw)
+[![M](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/70px-Logo_of_YouTube_%282015-2017%29.svg.png)](https://www.youtube.com/results?search_query=big+o+notation)
 
 <div style="text-align: justify">
 	
